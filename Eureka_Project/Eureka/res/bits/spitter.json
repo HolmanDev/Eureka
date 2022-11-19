@@ -1,0 +1,8 @@
+{
+	"name": "spitter",
+	"interactable": false,
+	"configurable": true,
+	"sideFace": 6,
+	"frontFace": 7,
+	"backFace": 8
+}

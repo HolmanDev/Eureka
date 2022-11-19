@@ -1,0 +1,6 @@
+{
+	"name": "power_source",
+	"interactable": false,
+	"configurable": false,
+	"face": 12
+}

@@ -1,0 +1,7 @@
+{
+	"name": "light",
+	"interactable": false,
+	"configurable": false,
+	"face": 16,
+	"poweredFace": 17
+}

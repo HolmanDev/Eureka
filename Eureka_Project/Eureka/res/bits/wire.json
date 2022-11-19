@@ -1,0 +1,7 @@
+{
+	"name": "wire",
+	"interactable": false,
+	"configurable": false,
+	"face": 9,
+	"poweredFace": 10
+}
